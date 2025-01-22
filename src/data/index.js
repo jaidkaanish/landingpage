@@ -1,8 +1,8 @@
 export const data = [
   {
     id: 1,
-    heading: 'Sandy Shores',
-    subHeading: 'Unwavering Beige Beauty',
+    heading: 'Sandbox',
+    subHeading: 'World of sandboxes',
     text: 'It is a versatile and neutral color that can be paired with a variety of different outfits and styles.',
     swatchColor: '#E6D3C4',
     background: '#E5E5E5',

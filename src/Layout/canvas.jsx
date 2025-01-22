@@ -122,7 +122,7 @@ class Canvas extends React.Component {
       `${THREE_PATH}/examples/js/libs/draco/gltf/`
     );
 
-    const chair = 'bag.glb';
+    const chair = 'safe.glb';
     const GLtfLoader = new GLTFLoader(this.manager).setDRACOLoader(
       DRACO_LOADER
     );

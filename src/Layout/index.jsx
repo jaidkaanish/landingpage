@@ -43,7 +43,7 @@ function Banner() {
       {isLoading ? <LoadingAnimation /> : null}
 
       <div className="logo absolute my-2 ml-6 text-left text-2xl font-bold tracking-widest md:ml-28 lg:ml-[12vw] lg:my-8">
-        MISFIT.
+        AJDEV
       </div>
       <div className="rotation">
         <p>Please Rotate your device to see the Product</p>
